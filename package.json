@@ -1,0 +1,28 @@
+{
+  "name": "anti-iplogger-bot",
+  "version": "1.0.0",
+  "description": "A bot that delete all ip grabber links",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rastacabeza/anti-iplogger-bot.git"
+  },
+  "keywords": [
+    "meme",
+    "dankmemer",
+    "discord.js"
+  ],
+  "author": "rastacabeza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rastacabeza/anti-iplogger-bot/issues"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.10.3"
+  }
+}
